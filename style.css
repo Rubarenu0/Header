@@ -1,0 +1,16 @@
+li{
+    display: inline;
+    vertical-align: middle;
+    padding: 20px;
+    color: white;
+}
+ul{
+    margin-left: 550px;
+    background-color: blueviolet;
+    height: 40px;
+    padding-top: 5px;
+}
+.head{
+    background-color: blueviolet;
+    height: 40px;
+}
